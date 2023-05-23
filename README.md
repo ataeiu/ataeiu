@@ -1,9 +1,7 @@
 # 💫 About Me:
 ### Hi There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
-I am a web developer. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
-
-I have more than 2 years of experience and programming ability in the field of network and communication, I facilitated my work process and I have a key role in many projects. Python, Django and JavaScript are my specializations in programming.
+I am a Python programmer and Django developer with two years of experience in web development.  My experience includes developing dynamic web applications, content management systems, management panels, web services and APIs.  I am interested in continuous learning and am always looking for new opportunities to improve my skills.  Also, I have good abilities to solve problems and work in a team.  I am looking for new opportunities to expand my experience in web development and to work with a dynamic team where we can create very interesting and useful applications together.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ataeiu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ataeiu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ataeiu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ataeiu) 
